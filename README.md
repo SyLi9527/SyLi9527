@@ -31,7 +31,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - ⚡ I love challenges as well. Each time I solve a hard problem, I would feel a sense of satisfaction.
 
-- 📫 You can reach me via   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&style=plastic&logo=gmail&logoColor=white)](sky14566541@gmail.com).
+- 📫 You can reach me via   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&style=plastic&logo=gmail&logoColor=white)](mailto:sky14566541@gmail.com).
 
 ---
 
