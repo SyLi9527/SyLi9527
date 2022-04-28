@@ -31,7 +31,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - ⚡ I love challenges as well. Each time I solve a hard problem, I would feel a sense of satisfaction.
 
-- 📫 You can reach me via   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&style=plastic&logo=gmail&logoColor=white)](mailto:sky14566541@gmail.com).
+- 📫 You can reach me via sky14566541@gmail.com  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&style=plastic&logo=gmail&logoColor=white)](mailto:sky14566541@gmail.com).
 
 ---
 
@@ -54,6 +54,8 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
 </div>
 
 ---
