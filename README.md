@@ -23,7 +23,7 @@
 
 ---
 
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China 🇨🇳. Currently I am studying in Switzerland 🇨🇭 for my master degree. After that, I am likely to pursue a Phd postion/work as a full stack developer. Currently, I am learning unity and it seems it's also cool to become a graphic/game developer. 
+I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China 🇨🇳. Currently I just finished my master degree in Switzerland 🇨🇭. After that, I am likely to work as a full-stack developer for the first two years and then purse a Phd Position. I am learning unity and it seems it's also cool to become a graphic/game developer. 
 
 - 🔭 I’m working as a part-time Software Engineer and contributing to frontend and backend for building web applications.
 
